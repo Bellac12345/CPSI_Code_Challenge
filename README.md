@@ -2,6 +2,7 @@
 Important Notes:
 
 - Place CSV Files in Resource folder before beginning program
+- 2 sample CSV files are placed under Resources folder (Book1.csv, Book2.csv)
 - When Entering CSV File name do not enter .csv extension
 
 
